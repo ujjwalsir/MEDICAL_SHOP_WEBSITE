@@ -93,6 +93,6 @@ INTERNSHIP TASK MINIWORLD
 
 
 
-/* Other styles for additional sections, footer, etc. */
+
 
 
